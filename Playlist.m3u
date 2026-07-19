@@ -1,1 +1,7 @@
-canal
+#EXTM3U
+
+#EXTINF:-1 group-title="Listes Mondiales",Toutes les chaînes IPTV-Org
+https://iptv-org.github.io/iptv/index.m3u
+
+#EXTINF:-1 group-title="Listes Mondiales",Alternative Auto-Vérifiée
+https://romaxa55.github.io/world_ip_tv/output/index.m3u
