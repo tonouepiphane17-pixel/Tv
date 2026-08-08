@@ -1,2 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="France 24", France 24 FR
+https://static.france24.com/live/F24_FR_PAD_HLS/live_tv/index.m3u8
 
 https://adresse-du-flux-legal.m3u8
